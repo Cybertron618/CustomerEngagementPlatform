@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerEngagementPlatform.Api", "CustomerEngagementPlatform.Api\CustomerEngagementPlatform.Api.csproj", "{2CFDD10D-A7D5-4A7F-BE1B-5FCB5FF8D09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerEngagementPlatform.Api.Tests", "CustomerEngagementPlatform.Api.Tests\CustomerEngagementPlatform.Api.Tests.csproj", "{BA821689-92AC-4A72-AB34-E71977709CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFDD10D-A7D5-4A7F-BE1B-5FCB5FF8D09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFDD10D-A7D5-4A7F-BE1B-5FCB5FF8D09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFDD10D-A7D5-4A7F-BE1B-5FCB5FF8D09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFDD10D-A7D5-4A7F-BE1B-5FCB5FF8D09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA821689-92AC-4A72-AB34-E71977709CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA821689-92AC-4A72-AB34-E71977709CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA821689-92AC-4A72-AB34-E71977709CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA821689-92AC-4A72-AB34-E71977709CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE38F81-32B1-46EE-8206-3DE0F070290E}
+	EndGlobalSection
+EndGlobal
